@@ -1,13 +1,11 @@
-## Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Alexis Vafiadis</h1>
-<h3 align="center">A passionate a passionate junior data scientist, studying in M2 at ISEP. I love (x)</h3>
+<h1 align="center">Hi 👋, I'm Alexis</h1>
+<h3 align="center">A passionate a passionate junior data scientist, studying in M2 at ISEP.</h3>
 
 - 🔭 I’m currently working on **a mobile party game**
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
-- 📫 How to reach me **alexisvafiadis@gmail.com**
+- 📫 You can reach me at **alexisvafiadis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

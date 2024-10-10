@@ -14,29 +14,38 @@
 ## Skills & Tools
 
 ### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=python,r,java,cs,matlab,sklearn,dotnet)](https://skillicons.dev)
+
 - **Python**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, PyTorch, OpenCV, Dask, Streamlit
 - **R**
 - **Java**: Hadoop, Junit, JavaFX
 - **C#**: .NET Framework
 - **MATLAB**
-- **SQL**: PL/SQL, PostgreSQL
+- **SQL**: PL/SQL
 
-#### Web Development
+### Web Development
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,mongodb)](https://skillicons.dev)
+
 - **Frontend**:
   - **Languages**: HTML, CSS, JavaScript (jQuery, Chart.js)
 - **Backend**:
   - **Languages**: PHP, Java
-  - **Databases**: MySQL, MongoDB, Cassandra
+  - **Databases**: MySQL, PostgreSQL, MongoDB, Cassandra
 
 ### Databases & Data Engineering
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,cassandra,elasticsearch)](https://skillicons.dev)
+
 - **Databases**: PostgreSQL, Cassandra, MongoDB
 - **Data Pipelines**: Apache Airflow, Apache Spark
 - **Big Data Technologies**: Hadoop, Elasticsearch, Kibana
 - **NoSQL Databases**: MongoDB, Cassandra
 
 ### Software & Tools
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,pycharm,powerbi,git)](https://skillicons.dev)
+
 - **Development Environments**: Visual Studio, IntelliJ, PyCharm
 - **BI Tools**: Power BI
+
 
 
 ## Projects

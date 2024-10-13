@@ -57,6 +57,8 @@
 
 ### Business Intelligence & Dashboards
 - **[Bike Store Sales Analysis Dashboard](https://github.com/alexisvafiadis/Bike-Sales-Analysis-Dashboard-Power-BI)**: A Power BI dashboard to analyze sales data and provide insights for decision-making.
+- **[Music Data Extraction, Analysis & Dashboard](https://github.com/alexisvafiadis/Music-Data-Extraction-Analysis-Dashboard--Airflow-Spark-Kibana)**: End-to-end pipeline combining data from Spotify and Last.fm APIs, using Airflow for orchestration, Spark for data transformation, and Elasticsearch/Kibana for real-time dashboard visualization.
+
 
 ### Software & Game Development
 - **[Six Qui Prend - Card Game](https://github.com/alexisvafiadis/SixQuiPrend-Card-Game)**: A JavaFX implementation of the card game "6 qui prend!" with interactive GUI.

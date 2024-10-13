@@ -53,11 +53,11 @@
 
 ### Data Science Projects
 - **[Data Science Notebooks](https://github.com/alexisvafiadis/Data-Science-Notebooks)**: A collection of Jupyter notebooks focused on key steps of the Data Science workflow, including exploratory data analysis (EDA) and preprocessing.
-- **[Bug Images Data Analysis and Type Classification](https://github.com/alexisvafiadis/Bug-Images-Data-Analysis-And-Type-Classification)**: A project focused on identifying pollinator insects using image classification and machine learning techniques.
+- **[Bug Images Data Analysis and Type Classification](https://github.com/alexisvafiadis/Bug-Images-Data-Analysis-And-Type-Classification)**: A project focused on identifying pollinator insects from images using feature extraction, oversampling and classification methods in Python.
 
 ### Business Intelligence & Dashboards
 - **[Bike Store Sales Analysis Dashboard](https://github.com/alexisvafiadis/Bike-Sales-Analysis-Dashboard-Power-BI)**: A Power BI dashboard to analyze sales data and provide insights for decision-making.
-- **[Music Data Extraction, Analysis & Dashboard](https://github.com/alexisvafiadis/Music-Data-Extraction-Analysis-Dashboard--Airflow-Spark-Kibana)**: End-to-end pipeline combining data from Spotify and Last.fm APIs, using Airflow for orchestration, Spark for data transformation, and Elasticsearch/Kibana for real-time dashboard visualization.
+- **[Music Data Extraction, Analysis & Dashboard](https://github.com/alexisvafiadis/Music-Data-Extraction-Analysis-Dashboard--Airflow-Spark-Kibana)**: End-to-end pipeline extracting and combining data from Spotify and Last.fm APIs for real-time dashboard visualization, using Airflow, Spark, Elasticsearch and Kibana.
 
 
 ### Software & Game Development

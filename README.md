@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
-<h3 align="center">A junior data scientist, currently pursuing the final year of a Master's in Engineering at ISEP (graduating in 2025)</h3>
-
+<h4 align="center">A junior data scientist, currently pursuing the final year of a Master's in Engineering at ISEP (graduating in 2025)</h3>
+<br>
 - 🔭 I’m currently working on **a mobile party game**
 - 🌱 I’m currently learning **Natural Language Processing**
 - 📫 You can reach me at **alexisvafiadis@gmail.com**

@@ -14,7 +14,7 @@
 ## Skills & Tools
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=python,r,java,cs,matlab,sklearn,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,java,cs,dotnet,matlab,sklearn)](https://skillicons.dev)
 
 - `Python`: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, PyTorch, OpenCV, Dask, Streamlit
 - `R`

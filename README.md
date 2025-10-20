@@ -16,7 +16,7 @@
 ### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=python,r,java,cs,dotnet,matlab,sklearn)](https://skillicons.dev)
 
-- `Python`: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, PyTorch, OpenCV, Dask, Streamlit
+- `Python`: Pandas, Geopandas, NumPy, PySpark, Scikit-Learn, Matplotlib, Seaborn, PyTorch, Tensorflow, OpenCV, Dask, Streamlit, Kedro
 - `R`
 - `Java`: Hadoop, Junit, JavaFX
 - `C#`: .NET Framework
@@ -45,6 +45,7 @@
 
 - `Development Environments`: Visual Studio, IntelliJ, PyCharm
 - `BI Tools`: Power BI
+- `MLOps`: Microsoft Azure, AWS
 
 
 

@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
-<h4 align="center">A junior data scientist, currently pursuing the final year of master's in Engineering at ISEP (graduating in 2025)</h3>
+<h4 align="center">I graduated from a master's in Engineering (Data Science major) and am looking for a full-time position in data science / AI</h3>
 
+- 🌱 I’m currently learning **Natural Language Processing / LLMs**
 - 🔭 I’m currently working on **a mobile party game**
-- 🌱 I’m currently learning **Natural Language Processing**
+
 - 📫 You can reach me at **alexisvafiadis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

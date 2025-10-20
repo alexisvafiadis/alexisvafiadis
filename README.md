@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
-<h4 align="center">I graduated from a master's in Engineering (Data Science major) and am looking for a full-time position in data science / AI</h3>
+<h4 align="center">I graduated with a Master's in Engineering (Data Science major) and am looking for a full-time position in data science / AI</h3>
 
 - 🌱 I’m currently learning **Natural Language Processing**
 - 🔭 I’m currently working on **a mobile party game**

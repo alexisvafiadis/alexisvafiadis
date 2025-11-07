@@ -10,6 +10,27 @@
 <a href="https://linkedin.com/in/alexis-vafiadis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexis-vafiadis" height="30" width="40" /></a>
 </p>
 
+## Projects
+
+### Data Science Projects
+- **[Data Science Notebooks](https://github.com/alexisvafiadis/Data-Science-Notebooks)**: A collection of Jupyter notebooks focused on key steps of the Data Science workflow, including exploratory data analysis and preprocessing (Python).
+- **[Bug Images Data Analysis and Type Classification](https://github.com/alexisvafiadis/Bug-Images-Data-Analysis-And-Type-Classification)**: A project focused on identifying pollinator insects from images using feature extraction, oversampling and classification methods (Python).
+
+### Business Intelligence & Dashboards
+- **[Bike Store Sales Analysis Dashboard](https://github.com/alexisvafiadis/Bike-Sales-Analysis-Dashboard-Power-BI)**: A dashboard to analyze bike sales data and provide insights for decision-making to various departments (Power BI).
+- **[Music Data Extraction, Analysis & Dashboard](https://github.com/alexisvafiadis/Music-Data-Extraction-Analysis-Dashboard--Airflow-Spark-Kibana)**: A pipeline extracting and combining data from Spotify and Last.fm APIs for dashboard visualization (Airflow, Spark, Elasticsearch, Kibana).
+
+
+### Software & Game Development
+- **[Six Qui Prend - Card Game](https://github.com/alexisvafiadis/SixQuiPrend-Card-Game)**: A JavaFX implementation of the card game "6 qui prend!" with interactive GUI.
+- **[Harry Potter RPG Game (JavaFX)](https://github.com/alexisvafiadis/HarryPotterRPG-with-GUI)**: An offline RPG based on the Harry Potter universe, built with JavaFX, with turn-based combat.
+- `[⚠️Outdated]` **[Harry Potter RPG (Console Version)](https://github.com/alexisvafiadis/HarryPotterRPG-with-Console)**: An early console-based version of the Harry Potter RPG game above.
+- `[⚠️Beginner-Level]` **[Step Test Data Management Software](https://github.com/alexisvafiadis/--Warning-Beginner-Level--Step-Test-Management-Software)**: A desktop app to automate data collection, analysis, and storage from step tests for health tracking.
+
+### Web Programming
+- **[Better Labor: Connected Headset Management Platform](https://github.com/alexisvafiadis/Connected-Headset-Data-Management-Platform--Better-Labor)**: A web application for managing users, health, and environmental data from connected headsets.
+- `[⚠️Beginner-Level]` **[Community Center Website Rework](https://github.com/alexisvafiadis/Community-Center-Website-Rework)**: A project aimed at redesigning the website of Saith Seren Community Center to improve usability and design.
+
 
 ## Skills & Tools
 
@@ -46,32 +67,5 @@
 - `Development Environments`: Visual Studio, IntelliJ, PyCharm
 - `BI Tools`: Power BI
 - `MLOps`: Microsoft Azure, AWS
-
-
-
-
-## Projects
-
-### Data Science Projects
-- **[Data Science Notebooks](https://github.com/alexisvafiadis/Data-Science-Notebooks)**: A collection of Jupyter notebooks focused on key steps of the Data Science workflow, including exploratory data analysis and preprocessing (Python).
-- **[Bug Images Data Analysis and Type Classification](https://github.com/alexisvafiadis/Bug-Images-Data-Analysis-And-Type-Classification)**: A project focused on identifying pollinator insects from images using feature extraction, oversampling and classification methods (Python).
-
-### Business Intelligence & Dashboards
-- **[Bike Store Sales Analysis Dashboard](https://github.com/alexisvafiadis/Bike-Sales-Analysis-Dashboard-Power-BI)**: A dashboard to analyze bike sales data and provide insights for decision-making to various departments (Power BI).
-- **[Music Data Extraction, Analysis & Dashboard](https://github.com/alexisvafiadis/Music-Data-Extraction-Analysis-Dashboard--Airflow-Spark-Kibana)**: A pipeline extracting and combining data from Spotify and Last.fm APIs for dashboard visualization (Airflow, Spark, Elasticsearch, Kibana).
-
-
-### Software & Game Development
-- **[Six Qui Prend - Card Game](https://github.com/alexisvafiadis/SixQuiPrend-Card-Game)**: A JavaFX implementation of the card game "6 qui prend!" with interactive GUI.
-- **[Harry Potter RPG Game (JavaFX)](https://github.com/alexisvafiadis/HarryPotterRPG-with-GUI)**: An offline RPG based on the Harry Potter universe, built with JavaFX, with turn-based combat.
-- `[⚠️Outdated]` **[Harry Potter RPG (Console Version)](https://github.com/alexisvafiadis/HarryPotterRPG-with-Console)**: An early console-based version of the Harry Potter RPG game above.
-- `[⚠️Beginner-Level]` **[Step Test Data Management Software](https://github.com/alexisvafiadis/--Warning-Beginner-Level--Step-Test-Management-Software)**: A desktop app to automate data collection, analysis, and storage from step tests for health tracking.
-
-### Web Programming
-- **[Better Labor: Connected Headset Management Platform](https://github.com/alexisvafiadis/Connected-Headset-Data-Management-Platform--Better-Labor)**: A web application for managing users, health, and environmental data from connected headsets.
-- `[⚠️Beginner-Level]` **[Community Center Website Rework](https://github.com/alexisvafiadis/Community-Center-Website-Rework)**: A project aimed at redesigning the website of Saith Seren Community Center to improve usability and design.
-
-
-
 
 
